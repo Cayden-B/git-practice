@@ -2,3 +2,6 @@
 
 const x =( 'b' + 'a' + + 'a' + 'a').toLowerCase();
 console.log(x)
+
+
+alert("hello")
